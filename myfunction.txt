@@ -6,3 +6,10 @@ one_extra file added
 second_extra file added
 
 adding the new line.
+
+checking if changes are tracked.
+check for head~1 code
+and check for head~2 code
+
+check if all works fine
+hence verified.
