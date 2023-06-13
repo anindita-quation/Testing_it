@@ -1,3 +1,0 @@
-onefunbction: this is 1st function
-twofunction: this is 2nd function
-thirdfunction: this is 3rd function
