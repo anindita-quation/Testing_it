@@ -1,0 +1,5 @@
+*.js
+*.mp4
+assets/videos/
+node_module/
+!app.js
