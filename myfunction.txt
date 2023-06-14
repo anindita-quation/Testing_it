@@ -13,5 +13,7 @@ and check for head~2 code
 
 check if all works fine
 hence verified.
-Is it working good.
+Is it working good. This looks like we also need the line 16.
 Inside the first_merge_branch.
+Here in master and checking the conflict
+have a better understanding
